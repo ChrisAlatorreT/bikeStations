@@ -16,7 +16,7 @@
                 "latitude": 20.666378,
                 "longitude": -103.34882,
                 "status": "IN_SERVICE",
-                "spacesToLeft": "",
+                "spacesToLeft": "5",
                 "itemsToTake": ""
             },
             "geometry": {
@@ -3255,7 +3255,6 @@
                     -103.36582,
                     20.687
                 ],
-                "obcn": "Hola"
             }
         },
         {

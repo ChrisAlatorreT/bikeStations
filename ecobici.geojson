@@ -15,8 +15,8 @@
                 "name": "(GDL-001) C. Epigmenio Glez.\/ Av. 16 de Sept.",
                 "obcn": "ECOBICI 01",
                 "location": "POLÍGONO CENTRAL",
-                "latitude": 20.666378,
-                "longitude": -103.34882,
+                "latitude": 19.436986, 
+                "longitude": -99.133569,
                 "status": "IN_SERVICE",
                 "bikesToTake": "4",
                 "spacesToLeft": "10"
@@ -24,8 +24,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -103.34882,
-                    20.666378
+                    -99.133569,
+                    19.436986
                 ]
             }
         },
@@ -36,8 +36,8 @@
                 "name": "(GDL-002) C. Colonias  \/ Av.  Niños héroes",
                 "obcn": "ECOBICI 02",
                 "location": "POLÍGONO CENTRAL",
-                "latitude": 20.667228,
-                "longitude": -103.366,
+                "latitude": 19.433491, 
+                "longitude": -99.130855,
                 "status": "IN_SERVICE",
                 "bikesToTake": "4",
                 "spacesToLeft": "8"
@@ -45,8 +45,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -103.366,
-                    20.667228
+                    -99.130855,
+                    19.433491
                 ]
             }
         },
@@ -57,8 +57,8 @@
                 "name": "(GDL-003) C. Vidrio \/ Av. Chapultepec",
                 "obcn": "ECOBICI 03",
                 "location": "POLÍGONO CENTRAL",
-                "latitude": 20.66769,
-                "longitude": -103.368252,
+                "latitude": 19.430538, 
+                "longitude": -99.132368,
                 "status": "IN_SERVICE",
                 "bikesToTake": "8",
                 "spacesToLeft": "5"
@@ -66,8 +66,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -103.368252,
-                    20.66769
+                    -99.132368,
+                    19.430538
                 ]
             }
         },
@@ -78,8 +78,8 @@
                 "name": "(GDL-004) C. Ghilardi \/C. Miraflores",
                 "obcn": "ECOBICI 05",
                 "location": "POLÍGONO CENTRAL",
-                "latitude": 20.69175,
-                "longitude": -103.36255,
+                "latitude": 19.434525,
+                "longitude": -99.138162,
                 "status": "IN_SERVICE",
                 "bikesToTake": "9",
                 "spacesToLeft": "7"
@@ -87,8 +87,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -103.36255,
-                    20.69175
+                    -99.138162,
+                    19.434525
                 ]
             }
         }

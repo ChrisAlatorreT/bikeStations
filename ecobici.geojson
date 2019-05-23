@@ -18,7 +18,7 @@
                 "latitude": 19.436986, 
                 "longitude": -99.133569,
                 "status": "IN_SERVICE",
-                "bikesToTake": "4",
+                "bikesToTake": "0",
                 "spacesToLeft": "10"
             },
             "geometry": {
@@ -39,8 +39,8 @@
                 "latitude": 19.433491, 
                 "longitude": -99.130855,
                 "status": "IN_SERVICE",
-                "bikesToTake": "4",
-                "spacesToLeft": "8"
+                "bikesToTake": "0",
+                "spacesToLeft": "10"
             },
             "geometry": {
                 "type": "Point",
@@ -60,8 +60,8 @@
                 "latitude": 19.430538, 
                 "longitude": -99.132368,
                 "status": "IN_SERVICE",
-                "bikesToTake": "8",
-                "spacesToLeft": "5"
+                "bikesToTake": "0",
+                "spacesToLeft": "10"
             },
             "geometry": {
                 "type": "Point",
@@ -81,8 +81,8 @@
                 "latitude": 19.434525,
                 "longitude": -99.138162,
                 "status": "IN_SERVICE",
-                "bikesToTake": "9",
-                "spacesToLeft": "7"
+                "bikesToTake": "5",
+                "spacesToLeft": "5"
             },
             "geometry": {
                 "type": "Point",

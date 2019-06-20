@@ -1908,8 +1908,8 @@
                 "latitude": 20.696097,
                 "longitude": -103.349382,
                 "status": "IN_SERVICE",
-                "bikesToTake": "10",
-                "spacesToLeft": "3"
+                "bikesToTake": "0",
+                "spacesToLeft": "10"
             },
             "geometry": {
                 "type": "Point",
@@ -4196,9 +4196,9 @@
                 "location": "POLÍGONO CENTRAL",
                 "latitude": 20.69406,
                 "longitude": -103.34824,
-                "status": "PLANNED",
+                "status": "IN_SERVICE",
                 "bikesToTake": "5",
-                "spacesToLeft": "1"
+                "spacesToLeft": "5"
             },
             "geometry": {
                 "type": "Point",
@@ -4218,8 +4218,8 @@
                 "latitude": 20.69442,
                 "longitude": -103.34474,
                 "status": "IN_SERVICE",
-                "bikesToTake": "5",
-                "spacesToLeft": "4"
+                "bikesToTake": "0",
+                "spacesToLeft": "10"
             },
             "geometry": {
                 "type": "Point",
@@ -4239,8 +4239,8 @@
                 "latitude": 20.69898,
                 "longitude": -103.34893,
                 "status": "IN_SERVICE",
-                "bikesToTake": "3",
-                "spacesToLeft": "1"
+                "bikesToTake": "0",
+                "spacesToLeft": "10"
             },
             "geometry": {
                 "type": "Point",
